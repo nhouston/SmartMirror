@@ -1,0 +1,79 @@
+body {
+    font-family: 'Catamaran', sans-serif;
+    background-color: #000;
+}
+
+#scriptText{
+    color: white;
+    position: absolute;
+    bottom: 0px;
+    font-size: 50px;
+    left:45%;
+    margin-left:-150px;
+}
+
+#weather {
+   float: right;
+}
+
+#temp {
+    text-align: right;
+    color: #fff;
+    font-size: 175px;
+    padding-right: 25px;
+}
+
+#icon {
+    color: white;
+    font-size: 175px;
+    display: inline;
+    position: absolute;
+    margin-top: 60px;
+    margin-left: -275px;
+}
+
+#description {
+    color: white;
+    font-size: 50px;
+    padding-right: 35px;
+    text-align: right;
+}
+
+#location {
+    color: white;
+    font-size: 25px;
+    padding-right: 35px;
+    text-align: right;
+}
+
+#time {
+    color: white;
+    font-size: 150px;
+    text-align: left;
+    padding-left: 25px;
+    padding-top: 15px;
+}
+
+#day {
+    color: white;
+    font-size: 75px;
+    text-align: left;
+    padding-left: 35px;
+    padding-top: auto;
+}
+#date {
+    color: white;
+    font-size: 75px;
+    text-align: left;
+    padding-left: 35px;
+    padding-top: auto;
+}
+
+#news {
+    color: white;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    /*padding-left: 135px;*/
+    margin-left: 175px;
+}
