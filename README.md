@@ -14,4 +14,13 @@ https://erikflowers.github.io/weather-icons/
 
 To use this project for your own, you will need to get an API key from openweathermap.org to receive weather data. The area to place this has been left available for you to edit. 
 
+An area to add your name for the greeting aspect has also been added.
+
+
+
+-----------
+
+
+This project is not neccessarily constrained for use in a smart mirror. It could be easily adapted and used as a home page for a browser, with the background changing based on weather conditions perhaps.
+
 
